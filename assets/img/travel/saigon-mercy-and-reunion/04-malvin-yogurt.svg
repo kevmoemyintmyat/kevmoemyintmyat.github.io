@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1520"/>
+      <stop offset="100%" stop-color="#2d1f28"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e8a54b" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8a54b" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e8a54b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <rect y="520" width="1200" height="155" fill="#141018"/>
+  <rect y="500" width="1200" height="30" fill="url(#glow)"/>
+  <rect x="180" y="480" width="340" height="12" rx="4" fill="#3d3038"/>
+  <rect x="200" y="430" width="300" height="50" rx="6" fill="#4a3842" opacity="0.9"/>
+  <ellipse cx="350" cy="410" rx="28" ry="48" fill="#6ec4e8" opacity="0.85"/>
+  <rect x="338" y="355" width="24" height="18" rx="3" fill="#8ed4f0"/>
+  <circle cx="280" cy="445" r="22" fill="#5a4850" opacity="0.7"/>
+  <circle cx="420" cy="450" r="20" fill="#5a4850" opacity="0.7"/>
+</svg>

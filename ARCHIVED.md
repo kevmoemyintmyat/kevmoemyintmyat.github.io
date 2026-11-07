@@ -1,5 +1,5 @@
 # Archived
 
-**Status:** Taken down — GitHub Pages unpublished 2026-08-29.
+**Status:** Content archive — historical travel posts. Not actively maintained.
 
 **Active focus:** `kevinmoemyintmyat` (Astro blog) for new content.

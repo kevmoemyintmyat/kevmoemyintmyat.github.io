@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="night" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1424"/>
+      <stop offset="100%" stop-color="#1a1020"/>
+    </linearGradient>
+    <linearGradient id="facade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5e6c8"/>
+      <stop offset="100%" stop-color="#c9a962"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#night)"/>
+  <ellipse cx="600" cy="200" rx="280" ry="80" fill="#f0d080" opacity="0.12"/>
+  <rect x="320" y="220" width="560" height="320" fill="url(#facade)" rx="4"/>
+  <path d="M320 220 L600 120 L880 220 Z" fill="#e8d4a8"/>
+  <rect x="380" y="280" width="60" height="200" fill="#1a1020" opacity="0.5"/>
+  <rect x="480" y="280" width="60" height="200" fill="#1a1020" opacity="0.5"/>
+  <rect x="580" y="260" width="40" height="220" fill="#1a1020" opacity="0.6"/>
+  <rect x="660" y="280" width="60" height="200" fill="#1a1020" opacity="0.5"/>
+  <rect x="760" y="280" width="60" height="200" fill="#1a1020" opacity="0.5"/>
+  <circle cx="200" cy="580" r="8" fill="#e8c050" opacity="0.8"/>
+  <circle cx="350" cy="560" r="6" fill="#e8c050" opacity="0.6"/>
+  <circle cx="900" cy="570" r="7" fill="#e8c050" opacity="0.7"/>
+</svg>
